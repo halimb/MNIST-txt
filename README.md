@@ -10,7 +10,7 @@ Each line contains comma separated values representing the image label (0 -9) fo
 
 More precisely, a line contains 1 label value, 784 pixel values, 784 commas and one line break. 
 
-The pixels values is organized in the exact same way as the raw idx files (i.e. row-wise; top to bottom...)
+The pixel values are organized in the exact same way as the raw idx files (i.e. row-wise; top to bottom...)
 
 
 
