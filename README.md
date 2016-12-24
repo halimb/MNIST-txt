@@ -3,9 +3,6 @@
 The [MNIST](http://yann.lecun.com/exdb/mnist/) training and testing datasets as plain UTF-8 text files. 
 
 
-----------
-
-
 Formatting 
 =========
 
